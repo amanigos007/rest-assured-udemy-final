@@ -16,7 +16,6 @@ public class RestTest {
     public void firstTest() {
 
         Map<String, String> headers = new HashMap<>();
-        headers.put("x-api-key", "");
         headers.put("content-type", "application/json");
 
         Response response = RestAssured
