@@ -1,0 +1,22 @@
+REST - Representational State Transfer
+- Client Server
+- Stateless
+- Cache
+- Uniform Interface
+- Layered System
+- Code on Demand
+
+JSON or XML
+
+HTTP - Communication protocol for web
+HTTP Request
+HTTP Response
+
+REST - Architectural design which leverage the HTTP protocol
+
+REST Anatomy
+GET https://api.getpostman.com/workspaces/id
+
+
+
+
